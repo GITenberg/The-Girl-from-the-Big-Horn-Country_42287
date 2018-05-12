@@ -1,0 +1,36 @@
+_repo: The-Girl-from-the-Big-Horn-Country_42287
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Elwell, Robert Farrington
+    alias: Elwell, R. Farrington (Robert Farrington)
+    birthdate: 1874
+    deathdate: 1962
+    gutenberg_agent_id: '46307'
+    url: http://www.gutenberg.org/2009/agents/46307
+covers:
+- cover_type: archival
+  image_path: 42287-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chase, Mary Ellen
+    birthdate: 1887
+    deathdate: 1973
+    gutenberg_agent_id: '32742'
+    url: http://www.gutenberg.org/2009/agents/32742
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Vermont -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+title: The Girl from the Big Horn Country
+url: http://www.gutenberg.org/ebooks/42287
